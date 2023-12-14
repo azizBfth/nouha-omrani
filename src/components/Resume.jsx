@@ -40,7 +40,7 @@ const Resume = () => {
                   BACCALAURÉAT. - SCIENCES EXPÉRIMENTALES.
                 </h4>
                 <p className="text-base font-normal text-slate-700 dark:text-slate-200">
-                  BACCALAURÉAT. - SCIENCES EXPÉRIMENTALES.
+                lycée secondaire 7 novembre, Kesra.
                 </p>
               </div>
             </div>
